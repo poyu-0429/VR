@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-360",
-      "name": "椅子360",
+      "id": "0-",
+      "name": "工作室",
       "levels": [
         {
           "tileSize": 256,
@@ -33,13 +33,13 @@ var APP_DATA = {
           "yaw": 2.6457945022089664,
           "pitch": -0.004843777139868166,
           "rotation": 11.780972450961727,
-          "target": "1--360"
+          "target": "1--1f"
         },
         {
           "yaw": 2.108583618687817,
           "pitch": 0.3704937792768952,
           "rotation": 4.71238898038469,
-          "target": "4--360"
+          "target": "4--"
         }
       ],
       "infoHotspots": [
@@ -52,8 +52,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1--360",
-      "name": "展示櫃 360",
+      "id": "1--1f",
+      "name": "展示櫃 1F",
       "levels": [
         {
           "tileSize": 256,
@@ -84,14 +84,14 @@ var APP_DATA = {
           "yaw": 0.5219865721761678,
           "pitch": 0.14072737914631972,
           "rotation": 0.7853981633974483,
-          "target": "0-360"
+          "target": "0-"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-360",
-      "name": "家360",
+      "id": "2-",
+      "name": "家",
       "levels": [
         {
           "tileSize": 256,
@@ -122,14 +122,14 @@ var APP_DATA = {
           "yaw": -1.0680401035595004,
           "pitch": 0.1809654649223944,
           "rotation": 4.71238898038469,
-          "target": "3-2-360"
+          "target": "3-2f"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-2-360",
-      "name": "展示櫃2 360",
+      "id": "3-2f",
+      "name": "展示櫃2F",
       "levels": [
         {
           "tileSize": 256,
@@ -160,14 +160,14 @@ var APP_DATA = {
           "yaw": -1.3007719703289453,
           "pitch": 0.32642298116392254,
           "rotation": 10.210176124166829,
-          "target": "2-360"
+          "target": "2-"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4--360",
-      "name": "禮品店 360",
+      "id": "4--",
+      "name": "禮品店 ",
       "levels": [
         {
           "tileSize": 256,
@@ -198,7 +198,7 @@ var APP_DATA = {
           "yaw": 1.8149746545101042,
           "pitch": 0.17809827054989924,
           "rotation": 7.853981633974483,
-          "target": "0-360"
+          "target": "0-"
         }
       ],
       "infoHotspots": []
